@@ -2,4 +2,22 @@ OpenMind launches OM1 Beta, the first open-source OS for intelligent robots, ena
 Robotics is at an inflection point. Billions of dollars have gone into building machines that can walk, carry, or fly, but most robots remain trapped in narrow use cases. Software is the bottleneck. Without a universal intelligence layer, robots are difficult to program, siloed by manufacturer, and rarely live up to their potential.
 At OpenMind, we believe that needs to change. Today, we’re excited to announce the beta release of the world’s first open-source operating system for intelligent robots - a universal platform that allows any robot to perceive, reason, and act in the real world.
 This beta release marks the beginning of what we see as the “Android moment” for robotics: a shared foundation that accelerates development, fosters interoperability, and unlocks a new era of machine intelligence.
+OM1 is designed to be hardware-agnostic and open from the ground up. It lets developers install fully autonomous software on robots without being locked into a single ecosystem or forced to reinvent the wheel.
 
+Key features of the beta release include:
+
+Hardware Agnostic - Works across quadrupeds, humanoids, wheeled robots, and drones.
+
+AI Model Integrations - Plug-and-play support for OpenAI, Gemini, DeepSeek, and xAI.
+
+Voice + Vision - Natural communication with speech-to-text (Google ASR), text-to-speech (Riva, ElevenLabs), and vision/emotion analytics.
+
+Preconfigured Agents - Ready-to-use for platforms like the Unitree G1 humanoid, Go2, TurtleBot, and Ubtech mini humanoid.
+
+Autonomous Navigation - Real-time SLAM, LiDAR support, and Nav2 path planning.
+
+Simulation Support - Gazebo integration for testing before hardware deployment.
+
+Cross-Platform - Runs on AMD64 and ARM64, delivered as Docker images for simple setup.
+
+OM1 Avatar - A modern React-based frontend providing a live interface and avatar display system.
