@@ -21,3 +21,17 @@ Simulation Support - Gazebo integration for testing before hardware deployment.
 Cross-Platform - Runs on AMD64 and ARM64, delivered as Docker images for simple setup.
 
 OM1 Avatar - A modern React-based frontend providing a live interface and avatar display system.
+Robots shouldn’t just move - they should learn, adapt, and collaborate. By making OM1 open source, we’re lowering the barriers to entry for robotics development and enabling a global developer community to contribute, extend, and improve the system.
+
+The benefits are clear:
+
+Anyone can build intelligent robots without proprietary lock-in.
+
+Developers worldwide can share knowledge and accelerate innovation.
+
+One OS can run across many robot types and manufacturers.
+
+Robotics development can finally move as fast as modern software.
+
+CEO Jan Liphardt says:
+“With this release, we’re giving developers the foundation to make that a reality. Just as Android transformed smartphones, we believe an open OS will transform robotics.”
