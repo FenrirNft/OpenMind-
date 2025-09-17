@@ -47,3 +47,6 @@ Simulate behaviors in Gazebo before deploying in the real world.
 
 CTO Boyuan Chen explained:
 “OM1 gives developers a shortcut to the future. Instead of stitching together tools and drivers, you can immediately start building intelligent behaviors and applications.”
+The beta release is available now on GitHub. Documentation, setup guides, and community support can be found in our documentation hub. Developers, researchers, and enterprises are invited to download, experiment, and contribute to building the foundation of intelligent robotics.
+
+OpenMind is based in San Francisco and is committed to building the universal operating system for intelligent machines. Together with FABRIC, our decentralized coordination layer for trust and collaboration, OM1 lays the groundwork for robots that can operate securely, autonomously, and collaboratively at scale.
