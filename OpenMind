@@ -35,3 +35,15 @@ Robotics development can finally move as fast as modern software.
 
 CEO Jan Liphardt says:
 “With this release, we’re giving developers the foundation to make that a reality. Just as Android transformed smartphones, we believe an open OS will transform robotics.”
+With OM1 Beta live on GitHub, developers can:
+
+Prototype voice-controlled quadrupeds in minutes.
+
+Test collaborative navigation with real-time mapping and obstacle avoidance.
+
+Deploy humanoid robots that integrate language models for natural interaction.
+
+Simulate behaviors in Gazebo before deploying in the real world.
+
+CTO Boyuan Chen explained:
+“OM1 gives developers a shortcut to the future. Instead of stitching together tools and drivers, you can immediately start building intelligent behaviors and applications.”
