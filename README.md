@@ -9,3 +9,5 @@ Verifiable Machines
 Robots join networks with proof of identity and verified physical location.
 Verifiable Machines
 Robots join networks with proof of identity and verified physical location.
+Shared Intelligence
+From bots to humanoids, FABRIC links machines into teams that learn, earn, and grow.
