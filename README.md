@@ -7,3 +7,5 @@ A decentralized network that gives machines trusted location, identity, and the 
 As a peer-to-peer network for machines, FABRIC supports trusted identity, multi-agent collaboration, and real-time decision-making.
 Verifiable Machines
 Robots join networks with proof of identity and verified physical location.
+Verifiable Machines
+Robots join networks with proof of identity and verified physical location.
