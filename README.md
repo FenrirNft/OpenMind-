@@ -5,3 +5,5 @@ Precision data collection tools, new AI architectures and design patterns for a 
 A decentralized network that gives machines trusted location, identity, and the ability to coordinate - like a GPS, VPN, and handshake protocol for robots.
 
 As a peer-to-peer network for machines, FABRIC supports trusted identity, multi-agent collaboration, and real-time decision-making.
+Verifiable Machines
+Robots join networks with proof of identity and verified physical location.
